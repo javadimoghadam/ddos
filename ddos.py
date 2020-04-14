@@ -10,7 +10,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-print("figlet Ali Ddos")
+os.system("figlet Ali Ddos")
 print
 print("Author : Ali Javadi")
 print("github : https://github.com/javadimoghadam")
