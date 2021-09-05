@@ -1,5 +1,5 @@
 # ddos
-Best Sample For DDos Attack ( 100% Running )
+Concept of DDoS (aka : Denial of service attack) with python3
 
 # important 
 * Any abuse of this program is the responsibility of the user.
